@@ -230,5 +230,5 @@
   },
   "days": 45,
   "months": 2,
-  "content_mode": "official_embeds"
+  "content_mode": "text_preview_and_official_embeds"
 }

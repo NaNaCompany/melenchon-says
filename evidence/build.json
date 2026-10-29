@@ -19,6 +19,6 @@
   ],
   "home_corpus_requests": 0,
   "monthly_sample": 50,
-  "content_mode": "official_embeds",
+  "content_mode": "text_preview_and_official_embeds",
   "portrait_sha256": "bb9414ce45d97f8e08e135230df45c3ce53833a857362fee0acedba0bba6014c"
 }
