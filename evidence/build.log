@@ -1,0 +1,2 @@
+{"status": "built", "slug": "melenchon-says", "subject": "Jean-Luc M\u00e9lenchon", "handle": "JLMelenchon", "posts": 353, "months": 2, "days": 45, "html_pages": 403, "sitemap_leaves": [{"file": "sitemap-main.xml", "urls": 50}, {"file": "sitemap-posts-01.xml", "urls": 353}], "home_corpus_requests": 0, "monthly_sample": 50, "content_mode": "official_embeds", "portrait_sha256": null}
+[rtk] /!\ No hook installed — run `rtk init -g` for automatic token savings

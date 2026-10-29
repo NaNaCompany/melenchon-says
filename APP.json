@@ -1,0 +1,24 @@
+{
+  "slug": "melenchon-says",
+  "name": "Mélenchon Says",
+  "wordmark": "MÉLENCHON",
+  "subject": "Jean-Luc Mélenchon",
+  "handle": "JLMelenchon",
+  "initials": "JM",
+  "color": "#88615b",
+  "identity_note": "This archive indexes the public account. Mélenchon's official website states that he does not personally tweet.",
+  "identity_source": "https://melenchon.fr/",
+  "profile": "https://x.com/JLMelenchon",
+  "origin": "https://nanalab.kr/melenchon-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

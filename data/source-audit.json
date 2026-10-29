@@ -1,0 +1,227 @@
+{
+  "slug": "melenchon-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 353,
+  "first": "2026-09-12",
+  "last": "2026-10-28",
+  "exact_time": 353,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies",
+      "sha256": "74c6ba51b41c07ede58aa9a4ed0cd64b838a398ed9cc328f989c1a1c9b797e65",
+      "timeline_items": 21,
+      "accepted": 21,
+      "excluded": {}
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__-oLAAIAAAATMjExNTE3Njc4MjQ1NDU1OTIxNQgAAwAAAAIAAA",
+      "sha256": "b2d53684bdaaeec76a4b3323eee0c3d6b75227538137875e818a5428fb3aae31",
+      "timeline_items": 19,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__9cLAAIAAAATMjExNDM4MDc2NjE1MDc5NTQzMwgAAwAAAAIAAA",
+      "sha256": "ed9b5272b0629de3bd2cb2a86bc814fccd579ed69a669645b5ca5383955b618a",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__8MLAAIAAAATMjExMzE4OTI3MTE1MDQ0ODc4MQgAAwAAAAIAAA",
+      "sha256": "2e920f1fc24ee4d57c26fe8946723ce9d0c389cdfe70e5f7e6120d8db53ae385",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__64LAAIAAAATMjExMjQ5Njg0MTQ0NzE1ODIxMAgAAwAAAAIAAA",
+      "sha256": "07e0d983dfc9bf23ad5a86c2b7e952b18f0d20328c19b9d546ead422f91a2560",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__5oLAAIAAAATMjExMTg2NjkwMDcwNzc2MjI0NAgAAwAAAAIAAA",
+      "sha256": "f2a2427b82ebc2667dd4a656f11fdf5eb5888c08c34d2744194f445de1982898",
+      "timeline_items": 19,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__4cLAAIAAAATMjExMTQ0MTcwNzUzNTYzMDU5NAgAAwAAAAIAAA",
+      "sha256": "fd99583ec07ee0336db6722672a689ef0f989ab1666a188f79aaa87e76318712",
+      "timeline_items": 20,
+      "accepted": 15,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__3MLAAIAAAATMjExMDMxODY2NDQxMTEyNzk3NggAAwAAAAIAAA",
+      "sha256": "71d0ba719c860ceb7a800539ceff1ea1d25d0dfafa2e6599d68042d1a79f72f7",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__14LAAIAAAATMjEwOTMxMTQ4NDAxNDUwNjAxNQgAAwAAAAIAAA",
+      "sha256": "bb9e7d65492acdcd968409c5021873ab0c0c4871d7ac21c5703032b6a82e2f3c",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__0kLAAIAAAATMjEwOTI4NDY0MjgxNzgwMjY0OQgAAwAAAAIAAA",
+      "sha256": "42ab85f8b6e86a22b2f1b222e4b6b3c72108e5eb20bd487470065f763610c840",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__zULAAIAAAATMjEwNzgyNjMyMTQ3MjU2OTY2MggAAwAAAAIAAA",
+      "sha256": "a1ec8a09cd7b6e231fb72f2356cf67e4adaf0237421dce5b2f80ee547f3467eb",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__yELAAIAAAATMjEwNzE5MzIzODIxODIzMTk3OAgAAwAAAAIAAA",
+      "sha256": "e79acfd5f60b0551582c8e7e3e19c6204d2a4f14ef3e5e97422b7e060c5d45ea",
+      "timeline_items": 20,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__wwLAAIAAAATMjEwNjM1MjU1OTQ3NjY3NDY4MggAAwAAAAIAAA",
+      "sha256": "ccb0f0cefb7527099955a452eb647cc9e760e6d95e3ae1a05711ac6da14bce52",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__vcLAAIAAAATMjEwNTcwOTQxODgzNDk4NTE2NwgAAwAAAAIAAA",
+      "sha256": "c04dce65a9961f15975db5ef735c2a92e30e60592787bcf4426f550ddca03d18",
+      "timeline_items": 18,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__uQLAAIAAAATMjEwNDkxMDMyNjgyNzI0MTU3NwgAAwAAAAIAAA",
+      "sha256": "1c8b36a46dc9b5565064dc4eedcf763adf1c15b7486c6630f8ae9a8f8e3dc4cf",
+      "timeline_items": 18,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__tILAAIAAAATMjEwNDU4MjEyMzc1NTU5MzgxMggAAwAAAAIAAA",
+      "sha256": "f0956df675c6b4b870d13e062c95e5973a6585a5ecbf7b8bfe6887c0f9f52860",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__r4LAAIAAAATMjEwMzE0NTQ1NzIyNDQ4NzIwMggAAwAAAAIAAA",
+      "sha256": "315cbda487e6b4ed0126f43230a2cd9f93446b759d7a0ba1e8197deef833a7ad",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__qoLAAIAAAATMjEwMjY5NDc5NjA3OTAyNjE5NggAAwAAAAIAAA",
+      "sha256": "82f6cab8fe0bf1974b2304e50c06134fbef34ce7d822d326ff5ea2bc690fdfb1",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__pULAAIAAAATMjEwMDk0Nzk5MDExODU2NDAwMggAAwAAAAIAAA",
+      "sha256": "a929dd6189dce6ce546443d7b079364cf1505744bbbab863db421ed3d5002321",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JLMelenchon/with_replies?cursor=DAAHCgABHVwYG2b__oALAAIAAAATMjA5OTUwMDkzMzk3MzQxMzk0NggAAwAAAAIAAA",
+      "sha256": "7dba470274b3a909609269f2c1743fc8446cd9191c1e8d6807f211263c0ddfe6",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    }
+  ],
+  "excluded": {
+    "missing-author-or-permalink": 19,
+    "repost": 30
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}
